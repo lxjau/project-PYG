@@ -1,5 +1,6 @@
 # app
-
+账号：13700000000 
+密码：111111
 ## Project setup
 ```
 npm install
